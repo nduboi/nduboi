@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nduboi</h1>
-<h3 align="center">A passionate frontend and back developer.I from France</h3>
+<h3 align="center">A passionate frontend and back developer. I'm from France</h3>
 
 <p align="left"> <a href="https://twitter.com/jadoreelonmusk" target="blank"><img src="https://img.shields.io/twitter/follow/nduboi?logo=twitter&style=for-the-badge" alt="nduboi" /></a> </p>
 
