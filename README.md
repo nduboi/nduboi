@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">My name is Noa and I live in Nantes.<br><br>- 🔭 I'm an it student<br>- 📚 I'm currently learning C<br>- ⚡ In my spare time, I'm a scuba diver</p>
+<p align="left">My name is Noa and I live in Nantes.<br><br>- 🔭 I'm an it student<br>- 📚 I'm currently learning C, C++, Javascript, Haskell<br>- ⚡ In my spare time, I'm a scuba diver</p>
 
 ###
 
