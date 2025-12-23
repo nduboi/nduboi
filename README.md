@@ -31,7 +31,7 @@
 
 ###
 
-<p align="left">My name is Noa and I live in Nantes.<br><br>- 🔭 I'm an it student<br>- 📚 I'm currently learning C, C++, TypeScript<br>- ⚡ In my spare time, I'm a scuba diver</p>
+<p align="left">My name is Noa and I live in Nantes.<br><br>- 🔭 I'm an it student<br>- 📚 I'm currently learning C, C++, TypeScript, Ruby on Rails<br>- ⚡ In my spare time, I'm a scuba diver</p>
 
 ###
 
@@ -81,6 +81,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://github.com/devicons/devicon/blob/v2.17.0/icons/ruby/ruby-original.svg" height="40" alt="ruby logo" />
   
 </div>
 
